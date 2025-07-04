@@ -1,4 +1,4 @@
-# clean-vibe-coding
+# Clean Vibe Coding
 Curso: Clean Vibe Coding - De la Arquitectura al Código con IA
 
 ---
