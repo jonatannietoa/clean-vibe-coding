@@ -83,7 +83,7 @@ Curso: Clean Vibe Coding - De la Arquitectura al Código con IA
 
 ---
 
-## Módulo 4 y 5: La Conversación - El Arte y la Ciencia del Prompting
+## Módulo 4: La Conversación - El Arte y la Ciencia del Prompting
 
 *Capítulo 4: "De Peticiones Vagas a Instrucciones de Precisión"*
 
