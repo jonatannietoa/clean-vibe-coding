@@ -92,10 +92,10 @@ Curso: Clean Vibe Coding - De la Arquitectura al Código con IA
 ### Temas a tratar:
 
 1.  **Las Bases del Prompting para Código:**
-    * Explicar los componentes de un buen prompt: Contexto, Rol, Tarea, Reglas y el **Goal**.
+    * Explicaciones sobre los componentes de un buen prompt: Contexto, Rol, Tarea, Reglas y el **Goal**.
 
 2.  **La Plantilla Maestra de Prompting:**
-    * Proporcionar una guía o plantilla de prompt lista para copiar y pegar, donde el único elemento variable sea el "Goal".
+    * Proporcionaré una guía o plantilla de prompt lista para copiar y pegar, donde el único elemento variable sea el "Goal".
     * **Ejemplo de plantilla:**
         ```
         # ROL: Eres un desarrollador experto en Spring Boot, Arquitectura Hexagonal y DDD.
