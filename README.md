@@ -5,7 +5,7 @@ Curso: Clean Vibe Coding - De la Arquitectura al Código con IA
 
 ## Introducción del Curso
 
-**Vídeo/post:** "Basta de Código Caótico: Bienvenido a Clean Vibe Coding"
+"Basta de Código Caótico: Bienvenido a Clean Vibe Coding"
 
 > El Clean Vibe Coding no es magia, es una metodología. La velocidad de la IA es inútil sin una base sólida. En este curso, aprenderás a ser el arquitecto que guía a la IA para construir software robusto, escalable y de alta calidad. Olvídate del código espagueti generado por IA; vamos a construir y generar código con sentido para tu modelo de negocio.
 
